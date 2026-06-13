@@ -29,7 +29,7 @@
           Student • Front-End Learner • Web Enthusiast
         </p>
         <p className="text-zinc-400 max-w-xl mt-6 leading-relaxed text-base md:text-lg">
-          Saya adalah siswa kelas 10B Pondok Tahfizh Plus IT Abu Dzar, yang sedang dalam tahapanD mempelajari pengembangan antarmuka web modern yang interaktif.
+          Saya adalah siswa kelas 10B Pondok Tahfizh Plus IT Abu Dzar, yang sedang dalam tahapan mempelajari pengembangan antarmuka web modern yang interaktif.
         </p>
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mt-8">
           <button className="bg-amber-400 text-black px-8 py-3.5 rounded-xl font-bold shadow-lg shadow-amber-400/20 hover:bg-amber-300 hover:shadow-amber-400/40 hover:-translate-y-0.5 active:translate-y-0 transition-all duration-300">

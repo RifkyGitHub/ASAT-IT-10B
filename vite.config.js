@@ -8,8 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/ASAT-IT-10B/",
-  build: {
-    outDir: 'docs'
-  }
+  base: "/ASAT-IT-10B/"
 })
