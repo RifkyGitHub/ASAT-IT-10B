@@ -2,7 +2,6 @@
   return (
     <div className="bg-black min-h-screen text-white font-sans antialiased selection:bg-amber-400 selection:text-black">
       
-      {/* Navbar */}
       <nav className="fixed top-0 w-full bg-black/80 backdrop-blur-md border-b border-zinc-800 z-50">
         <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="text-2xl font-bold">
@@ -18,7 +17,7 @@
       <main className="flex flex-col items-center justify-center text-center px-6 py-16 min-h-[calc(100vh-88px)]">
         <div className="w-60 h-60 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-amber-400 shadow-[0_0_40px_rgba(251,191,36,0.25)] transition-transform duration-500 hover:scale-105">
           <img
-            src=""
+
             alt="Muhammad Rifky Himawan Widitama"
             className="w-full h-full object-cover"
           />
